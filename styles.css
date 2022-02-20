@@ -12,6 +12,10 @@ red - #ee5253
   border: solid black 1px
 }
 
+.hidden {
+  display: none;
+}
+
 
 body {
   background-size: cover;
@@ -76,7 +80,7 @@ ul {
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-evenly;
-  height: 50%
+  height: 50%;
 }
 
 li {
